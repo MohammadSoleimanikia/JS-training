@@ -14,7 +14,7 @@ class bird extends animal{
         super(name);
         this.type=type;
     }
- 
+
     canWalk()
     {
         super.canwalk();
