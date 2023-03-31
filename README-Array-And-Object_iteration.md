@@ -66,12 +66,3 @@ canFly: true
 hasFeathers: true
 canJump: true
 ```
-<br><br>
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
