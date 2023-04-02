@@ -50,3 +50,6 @@ builds/**/images/*
 *.pem
 *.xxjson
 test.js
+package-lock.json
+.gitignore
+package.json
