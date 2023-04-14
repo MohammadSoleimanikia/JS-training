@@ -1,20 +1,3 @@
-# Lab Instructions: Unit Testing
- 
-> ### **Tips: Before you Begin**
-> #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
-> - View -> Editor Layout -> Two Columns
-> - To view this file in Preview mode, right click on this README.md file and `Open Preview`
-> - Select your code file in the code tree, which will open it up in a new VSCode tab.
-> - Drag your assessment code files over to the second column. 
-> - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources here:  
-> [Visual Studio Code on Coursera](https://www.coursera.org/learn/programming-with-javascript/supplement/roMvE/visual-studio-code-on-coursera)
-> #### **To run your JavaScript code**
-> - Select your JavaScript file
-> - Select the "Run Code" button in the upper right hand toolbar of VSCode.  
-> Ex: It looks like a triangular "Play" button. 
-<br><br>
-
 ## Task 1: Add Jest as a devDependency
 
 Open terminal. Make sure that it's pointing to `jest-testing` directory.  
